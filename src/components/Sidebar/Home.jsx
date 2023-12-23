@@ -26,6 +26,7 @@ const Home = () => {
     >
       <AiFillHome size={25} />
       <Box display={{base: "none", md:"block"}}>
+        Home
       </Box>
     </Link>
   </Tooltip>
